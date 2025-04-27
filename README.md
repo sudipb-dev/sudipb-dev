@@ -18,7 +18,7 @@
 
 - **Languages:** Java, JavaScript, SQL
 - **Frameworks/Libraries:** Spring Boot, Hibernate, ReactJS (basic)
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL, PostgreSQL, Mongo
 - **Tools:** Git, Maven, Docker, Jenkins
 - **Cloud & DevOps:** AWS (basic), CI/CD pipelines
 - **Other:** Agile Methodologies, System Design
